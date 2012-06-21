@@ -1,0 +1,16 @@
+{
+  "author": "Stanley Stuart <dstanley.stuart@gmail.com>",
+  "name": "unregular",
+  "description": "Easy Regular Expressions for JavaScript",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fivetanley/unregular.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
