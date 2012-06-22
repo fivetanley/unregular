@@ -8,7 +8,10 @@
     "url": "git://github.com/fivetanley/unregular.git"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "~1.2.0",
+    "should": "~0.6.3"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
